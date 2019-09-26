@@ -1,3 +1,3 @@
-module https://github.com/teena-rai/go-cloudstack
+module github.com/teena-rai/go-cloudstack
 
 go 1.12
