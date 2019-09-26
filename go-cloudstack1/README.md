@@ -61,9 +61,11 @@ _Please try to see if [GoDocs](http://godoc.org/github.com/xanzy/go-cloudstack) 
 
 * If you have an issue: report it on the [issue tracker](https://github.com/xanzy/go-cloudstack/issues)
 
-## Author
+## Original Author
 
 Sander van Harmelen (<sander@xanzy.io>)
+
+* added code to support region
 
 ## License
 
