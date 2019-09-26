@@ -169,7 +169,7 @@ func newClient(apiurl string, apikey string, secret string, region string, async
 		baseURL: apiurl,
 		apiKey:  apikey,
 		secret:  secret,
-		region: region,
+		region:  region,
 		async:   async,
 		options: []OptionFunc{},
 		timeout: 300,
